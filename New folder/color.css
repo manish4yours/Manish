@@ -1,0 +1,57 @@
+body{
+	background:#f5d9df;
+	font-family: 'Open Sans', sans-serif;
+}
+#mainnavbar .navbar-brand{
+	color:#EA1C2C;
+ }
+
+#navfont-size: 1.5rem;
+	font-weight:100; 	
+}
+#mainnavbar .nav-link{
+	color:white;
+}
+#mainnavbar .nav-link:hover{
+	color:#EA1C2C;
+}
+#headingGroup span
+{
+	color:#EA1C2C;
+}
+#headingGroup h2
+{
+	font-weight:100;
+	font-size:2.0rem;
+	width: auto;
+}
+@media(max-width:992px){
+#headingGroup h2
+{
+	font-weight:100;
+	font-size:1.8rem;
+	
+}	
+}
+.text h2
+{
+	color:#EA1C2C;
+	font-weight: 100;
+	font-size:2.5rem;
+
+}
+.text p
+{
+	color:#f498b8;
+	font-weight:100;
+	font-size: 1.125rem;
+	line-height: 1.5;
+}
+.space{
+	margin-bottom:100px;
+}
+.navbar.scrolled
+{
+	background:rgb(222,192,222);
+	transition: background 0.5s;
+}
